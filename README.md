@@ -18,11 +18,11 @@ Solved 5 real business questions using MySQL on an e-commerce database. Used JOI
 ### Query 2: Monthly Revenue Trend
 ![Monthly Revenue](screenshot_q2.png)
 
-### Query 4: Category Bestsellers
-![Category Bestsellers](screenshot_q4.png)
+### Query 4: VIP Customers in Kolkata
+![VIP Customers](screenshot_q4.png)
 
-### Query 5: VIP Customers in Kolkata  
-![VIP Customers](screenshot_q5.png)
+### Query 5: Category Bestsellers
+![Category Bestsellers](screenshot_q5.png)
 
 ### How to Run This Project
 1. Clone repo: `git clone https://github.com/Anushri202406/sql-ecommerce-analytics.git`
