@@ -22,7 +22,7 @@ Solved 5 real business questions using MySQL on an e-commerce database. Used JOI
 ![Query 5 Result](screenshot_q5.png)
 
 ### How to Run This Project
-1. Clone repo: `git clone https://github.com/your-username/sql-ecommerce-analytics.git`
+1. Clone repo: `git clone https://github.com/Anushri202406/sql-ecommerce-analytics.git`
 2. Open MySQL Workbench
 3. Run `schema_and_data.sql` first to create tables
 4. Run `business_queries.sql` to see all 5 business insights
